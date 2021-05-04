@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60103d9f5379f83554ed0094"
+  },
+  "name": "Raju",
+  "age": 78,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60103ee769234d34ec43adbf"
+  },
+  "name": "Bahubali",
+  "age": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60103f9533fab237ec71fe26"
+  },
+  "name": "Ramu",
+  "age": 34,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60104080368fa741e00f4a3e"
+  },
+  "name": "Kaushik Jegannathan",
+  "age": 20,
+  "__v": 0
+}]
