@@ -1,5 +1,5 @@
 {
-  "name": "rsa_node",
+  "name": "MERN_application_server",
   "version": "1.0.0",
   "description": "RSA website using nodejs",
   "main": "index.js",
